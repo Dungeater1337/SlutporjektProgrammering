@@ -57,4 +57,15 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Varje gång man dra ett kort kommer Datorn och Användaren få ett slumpat värde från 1-11.
+Användaren kan trycka på Fold när han/hon vill, dock så kommer Datorn få dra ett till kort.
+Efter en Fold så får den med mest poäng närmast 21 vinnsten (Så länge Datorn inte får mer än 21).
+Om man väljer att dra kort och båda får över 21 så vinner Datorn (Eftersom bara spelaren kan Folda).
+                                                                              
+
+
+
+</value>
+  </data>
 </root>
